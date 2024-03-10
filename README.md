@@ -4,7 +4,7 @@
   <img src="src/assets/xperts.gif" width="600" height="350" alt="Gif de apresentação XPerts">
 </p>
 
-Deploy da aplicação: https://xperts-challenge-project-8svjqndw4-lilian-azevedo.vercel.app/
+
 # Contexto
 
 Essa aplicação foi desenvolvida como um desafio técnico, envolvendo a parte de Front-end em que uma pessoa usuária pode criar uma conta para compra e venda de ações, a partir de uma lista de ações disponíveis. Dentro da aplicação também pode-se adicionar uma valor para depósito ou retirada, além do histórico dessas transações.
